@@ -1,0 +1,698 @@
+ref;nationality_en;nationality_es;photo;photo_locality;photo_country_en;photo_country_es;date 
+ASF_01;Spain;España;Canasta;País Vasco ;Spain;España;01/08/2015
+ASF_02;Spain;España;Campo de fútbol;Barajas. Madrid ;Spain;España;01/08/2015
+ASF_03;Brazil;Brasil;Japaratinga Brasil;Palmas, Tocantins ;Brazil;Brasil;
+ASF_04;Denmark;Dinamarca;Cusco rooftop;Cuzco ;Peru;Perú;01/09/2014
+ASF_05;Denmark;Dinamarca;Yanque early morning;Cuzco ;Peru;Perú;01/09/2014
+ASF_06;Turkey;Turquía;A roof with a view 1;Istanbul Çatladıkapı;Turkey;Turquía;01/10/2016
+ASF_07;Turkey;Turquía;A roof with a view 2;Istanbul Çatladıkapı;Turkey;Turquía;01/10/2016
+ASF_08;Turkey;Turquía;A roof with a view 3;Istanbul Çatladıkapı;Turkey;Turquía;01/10/2016
+ASF_09;Spain;España;Monte Gurugú ;Monte Gurugú ;Morocco;Marruecos;01/04/2014
+ASF_10;Mexico;México;Tenochtitlan bajo el agua;Tenochtitlan ;Mexico;México;
+ASF_11;Mexico;México;II;Tenochtitlan ;Mexico;México;
+ASF_12;Mexico;México;Extinction;Tenochtitlan ;Mexico;México;
+ASF_13;Uganda;Uganda;Close upof Kiwatule;Kampala;Uganda;Uganda;2015
+ASF_14;Uganda;Uganda;Aerial view of Kiwatule;Kampala ;Uganda;Uganda;2015
+ASF_15;Uganda;Uganda;Kikoni slum in Kampala ;Kampala ;Uganda;Uganda;2016
+ASF_16;Mozambique;Mozambique;Sonhos adiados;Maputo ;Mozambique;Mozambique;01/12/2014
+ASF_17;Spain;España;Paisaje Antropizado;Berja, Almería;Spain;España;2015
+ASF_18;Spain;España;Náufrago;Berja, Almería;Spain;España;2015
+ASF_19;Spain;España;Tras la cosecha;Berja, Almería;Spain;España;2015
+ASF_20;Turkey;Turquía;Legoland;Eminönü/İstanbu;Turkey;Turquía;01/02/2016
+ASF_21;Turkey;Turquía;Cut-Out;Çankırı;Turkey;Turquía;01/09/2016
+ASF_22;Netherlands;Holanda;Awaiting new neighbours ;Muthemba district, Tete;Mozambique;Mozambique;01/09/2016
+ASF_23;Netherlands;Holanda;Building in vulnerable areas;Muthemba district, Tete;Mozambique;Mozambique;01/09/2016
+ASF_24;Netherlands;Holanda;Informal brick production for new settlements ;Muthemba district, Tete;Mozambique;Mozambique;01/09/2016
+ASF_25;Spain;España;Ciudad Encrucijada;Cantel ;Guatemala;Guatemala;01/10/2016
+ASF_26;Spain;España;Arte Público;Cantel ;Guatemala;Guatemala;01/09/2016
+ASF_27;France;Francia;Pelber;Tibet ;China;China;01/07/2016
+ASF_28;France;Francia;Bounceur Village;Barbacha ;Algeria;Argelia;01/08/2013
+ASF_29;France;Francia;Along the China National Highway 314;China;China;China;01/05/2016
+ASF_30;Argentina;Argentina;Simbiosis;Buenos Aires ;Argentina;Argentina;2016
+ASF_31;Turkey;Turquía;Ankara 1;Ankara ;Turkey;Turquía;
+ASF_32;Turkey;Turquía;Ankara 2;Ankara ;Turkey;Turquía;
+ASF_33;Turkey;Turquía;Ankara 3;Ankara ;Turkey;Turquía;
+ASF_34;Turkey;Turquía;Infant ;Tire, İzmir;Turkey;Turquía;01/08/2016
+ASF_35;Turkey;Turquía;Yellow ;Tire, İzmir;Turkey;Turquía;01/08/2016
+ASF_36;Turkey;Turquía;Colors in the Sky ;Tire, İzmir;Turkey;Turquía;01/08/2016
+ASF_37;Portugal;Portugal;Carrasqueira House above the water;Carrasqueira;Portugal;Portugal;01/02/2017
+ASF_38;Portugal;Portugal;Fishermen's houses in the village;Carrasqueira;Portugal;Portugal;01/02/2017
+ASF_39;Portugal;Portugal;Home in Palhota village;Carrasqueira;Portugal;Portugal;01/02/2017
+ASF_40;Sweden;Suecia;In shadow of the city;Nairobi ;Kenya;Kenia;01/09/2015
+ASF_41;Sweden;Suecia;Today counts;Hampi ;India;India;01/01/2012
+ASF_42;Sweden;Suecia;Son of a potter;Dharavii ;India;India;01/10/2014
+ASF_43;Turkey;Turquía;Sisyphus in the city;Capadocia ;Turkey;Turquía;01/02/2017
+ASF_44;Turkey;Turquía;Flesh and Stone;Capadocia ;Turkey;Turquía;01/02/2017
+ASF_45;Spain;España;La Ciudad de los olvidados;Laos;Lao;Laos;01/01/2011
+ASF_46;Portugal;Portugal;Casalata 1;Mindelo ;Cape Verde;Cabo Verde;01/03/2011
+ASF_47;Portugal;Portugal;Casalata 2;Mindelo ;Cape Verde;Cabo Verde;01/03/2011
+ASF_48;Portugal;Portugal;Casalata 3;Mindelo ;Cape Verde;Cabo Verde;01/03/2011
+ASF_49;Germany;Alemania;Ende stadt anfang 1;Istanbul;Turkey;Turquía;2013
+ASF_50;Germany;Alemania;Ende stadt anfang 2;Istanbul;Turkey;Turquía;2013
+ASF_51;Germany;Alemania;Ende stadt anfang 3;Istanbul;Turkey;Turquía;2013
+ASF_52;United Kingdom;Reino Unido;Rebuilding after evictions;Lagos (Nigeria);Nigeria;Nigeria;01/02/2017
+ASF_53;United Kingdom;Reino Unido;Sogunro community;Lagos (Nigeria);Nigeria;Nigeria;01/02/2017
+ASF_54;United Kingdom;Reino Unido;Transport in Sogunro;Lagos (Nigeria);Nigeria;Nigeria;01/02/2017
+ASF_55;Denmark;Dinamarca;Hope;Simons Town, Accra - Ghana ;Ghana;Ghana;01/03/2014
+ASF_56;Denmark;Dinamarca;Skill;Simons Town, Accra - Ghana ;Ghana;Ghana;01/03/2014
+ASF_57;Denmark;Dinamarca;Home;Simons Town, Accra - Ghana ;Ghana;Ghana;01/03/2014
+ASF_58;Portugal;Portugal;Hidding Shadows;Villamar - Bolívia;Bolivia;Bolivia;01/01/2017
+ASF_59;Portugal;Portugal;Reckless lines for meaning lives;Tarabuco - Bolívia;Bolivia;Bolivia;01/01/2017
+ASF_60;Portugal;Portugal;Separating inseparable sides;Tankarpata, Cusco - Perú;Peru;Perú;01/02/2017
+ASF_61;Spain;España;Terrain Vague 1;Daimiel (Ciudad Real);Spain;España;2010
+ASF_62;Spain;España;Terrain Vague 2;Tarancón (Cuenca);Spain;España;2010
+ASF_63;Spain;España;Terrain Vague 3; Cañada Real (Madrid) ;Spain;España;2011
+ASF_64;Chile;Chile;Contrastes de una ciudad maravillosa;Río de Janeiro - Brasil;Brazil;Brasil;01/09/2012
+ASF_65;Spain;España;Por hacer;Santiago de Cuba - Cuba;Cuba;Cuba;01/12/2016
+ASF_66;Spain;España;Dos mundos;Cienfuegos - Cuba;Cuba;Cuba;01/12/2016
+ASF_67;Spain;España;Responsavilidad;La Habana - Cuba;Cuba;Cuba;01/01/2017
+ASF_68;Brazil;Brasil;O nosso olhar 1;Brasília - Setor de Autarquías Sul;Brazil;Brasil;01/03/2017
+ASF_69;Brazil;Brasil;O nosso olhar 2;Brasília - Setor de Autarquías Sul;Brazil;Brasil;01/03/2017
+ASF_70;Dominican Republic;Rep. Dominicana;Los caminos imaginarios;Sector Cristo Rey, Santo Domingo (RD);Dominican Republic;República Dominicana;01/03/2017
+ASF_71;Spain;España;Donde hoy vive la nada;Parque Nacional Yaxhá - Guatemala;Guatemala;Guatemala;01/11/2014
+ASF_72;Spain;España;Sin excusas a la vida;San Antonio Palopó - Gautemala;Guatemala;Guatemala;01/09/2014
+ASF_73;Spain;España;Sonrisas al cielo;Ciudad de Guatemala - Guatemala;Guatemala;Guatemala;01/09/2014
+ASF_74;Spain;España;Afternoon at Asan Market;Kathmandu - Nepal;Nepal;Nepal;01/05/2016
+ASF_75;Spain;España;Evening at Chuchepati camp;Kathmandu - Nepal;Nepal;Nepal;01/05/2016
+ASF_76;Spain;España;Morining at Chuchepati camp;Kathmandu - Nepal;Nepal;Nepal;01/05/2016
+ASF_77;Austria;Austria;PlayGround;Isla Margarita - Venezuela;Venezuela;Venezuela;01/01/2016
+ASF_78;Egypt;Egipto;Thai housing river;Bangkok;Thailand;Tailandia;01/07/2016
+ASF_79;Egypt;Egipto;Thai housing top view;Bangkok;Thailand;Tailandia;01/07/2016
+ASF_80;Italy;Italia;Arquitectura vs Vernacular;Barrio de Guapulo (Quito) - Ecuador;Ecuador;Ecuador;01/03/2015
+ASF_81;Italy;Italia;Ilegal;Playa del Embarcadero (Almería) - España;Spain;España;01/06/2014
+ASF_82;Italy;Italia;Mi pueblo;Manabí - Ecuador;Ecuador;Ecuador;01/05/2015
+ASF_83;Spain;España;Mali 1;Bamako - Mali;Mali;Mali;01/03/2011
+ASF_84;Spain;España;Mali 2;Bamako - Mali;Mali;Mali;01/03/2011
+ASF_85;Spain;España;Mali 3;Bamako - Mali;Mali;Mali;01/03/2011
+ASF_86;Spain;España;Atlas;Atlas - Marruecos;Morocco;Marruecos;2014
+ASF_87;Spain;España;Favelas;Lago Titicaca - Perú;Peru;Perú;2014
+ASF_88;Spain;España;Isla Flotante;Río de Janeiro;Brazil;Brasil;2013
+ASF_89;Spain;España;Ropa Tendida;Isla Carabanne - Senegal;Senegal;Senegal;2014
+ASF_90;Spain;España;Puertas Abiertas;Caparán - Senegal;Senegal;Senegal;2014
+ASF_91;Spain;España;Camino;Isla Carabanne - Senegal;Senegal;Senegal;2014
+ASF_92;Spain;España;Acercándonos a Jaipur 1;Jaipur - India;India;India;01/10/2015
+ASF_93;Spain;España;Acercándonos a Jaipur 2;Jaipur - India;India;India;01/10/2015
+ASF_94;Spain;España;Acercándonos a Jaipur 3;Jaipur - India;India;India;01/10/2015
+ASF_95;Italy;Italia;Football;Nahr el-Bared - Líbano;Lebanon;Líbano;2015
+ASF_96;Italy;Italia;Ground Interaction;Nahr el-Bared - Líbano;Lebanon;Líbano;2015
+ASF_97;Italy;Italia;Cinema;Nahr el-Bared - Líbano;Lebanon;Líbano;2015
+ASF_98;Spain;España;Construyendo la Ciudad;Taiwán;Taiwan;Taiwán;2016
+ASF_99;Spain;España;Restos de arquitectura;Entrerríos. Mijas (Málaga) - España;Spain;España;01/03/2017
+ASF_100;Spain;España;Restos de arquitectura;Entrerríos. Mijas (Málaga) - España;Spain;España;01/03/2017
+ASF_101;Spain;España;Restos de arquitectura;Entrerríos. Mijas (Málaga) - España;Spain;España;01/03/2017
+ASF_102;Portugal;Portugal;Atlas;Marruecos;Morocco;Marruecos;01/06/2016
+ASF_103;Portugal;Portugal;Marrocos ;Marruecos;Morocco;Marruecos;01/06/2016
+ASF_104;Portugal;Portugal;Marrocos Deserto;Marruecos;Morocco;Marruecos;01/06/2016
+ASF_105;Cyprus;Chipre;A Nature Across The Divide;Karmi - Chipre;Cyprus;Chipre;2016
+ASF_106;Cyprus;Chipre;Transition between nature and political division: A green line ;Lefka - Chipre;Cyprus;Chipre;2016
+ASF_107;Cyprus;Chipre;United Nations Controlled Divided Capital: Buffer Zone ;Nicosia - Chipre;Cyprus;Chipre;2016
+ASF_108;Spain;España;Barro y paja;Oulad Driss - Marruecos;Morocco;Marruecos;2014
+ASF_109;Spain;España;El muro;Arcila - Marruecos;Morocco;Marruecos;2014
+ASF_110;Spain;España;Llueve sobre mojado;Moulay Bousselham - Marruecos;Morocco;Marruecos;2014
+ASF_111;Spain;España;Tiebele 1;Burkina Faso;Burkina Faso;Burkina Faso;
+ASF_112;Spain;España;Tiebele 2;Burkina Faso;Burkina Faso;Burkina Faso;
+ASF_113;Spain;España;Tiebele 3;Burkina Faso;Burkina Faso;Burkina Faso;
+ASF_114;Spain;España;Casas-talleres en Agbogbloshie;Accra - Ghana;Ghana;Ghana;01/01/2014
+ASF_115;Spain;España;Agbogbloshie frente al río Densu;Accra - Ghana;Ghana;Ghana;01/01/2014
+ASF_116;Spain;España;De camino a Agbogbloshie por Makola Market;Accra - Ghana;Ghana;Ghana;01/01/2014
+ASF_117;Brazil;Brasil;Simplicidade 1;San Pedro de Atacama - Chile;Chile;Chile;01/01/2017
+ASF_118;Brazil;Brasil;Simplicidade 2;San Pedro de Atacama - Chile;Chile;Chile;01/01/2017
+ASF_119;Brazil;Brasil;Simplicidade 3;San Pedro de Atacama - Chile;Chile;Chile;01/01/2017
+ASF_120;Spain;España;Nómadas del Sahara;Sáhara - Marruecos;Morocco;Marruecos;01/02/2017
+ASF_121;Cyprus;Chipre;A thoughtless human Evolution;Siouskou Village, Paphos - Chipre;Cyprus;Chipre;01/02/2017
+ASF_122;Italy;Italia;Unskinned;Habana - Cuba;Cuba;Cuba;01/08/2016
+ASF_123;Italy;Italia;Dichotomy;Al-Ṣawīra - Marruecos;Morocco;Marruecos;01/09/2014
+ASF_124;Italy;Italia;Reflecting;Kasbah Ait Ben Hadou - Marruecos;Morocco;Marruecos;01/09/2014
+ASF_125;Portugal;Portugal;Quiet Road;Marruecos;Morocco;Marruecos;01/06/2015
+ASF_126;Portugal;Portugal;One person;Marruecos;Morocco;Marruecos;01/06/2015
+ASF_127;Argentina;Argentina;Corte Carré ;Agra - India;India;India;01/02/2017
+ASF_128;Argentina;Argentina;Bajo el cielo de Nueva Delhi;Nueva Delhi - India;India;India;01/02/2017
+ASF_129;Argentina;Argentina;La fuerza de la fe;Jaipur - India;India;India;01/02/2017
+ASF_130;Spain;España;Monzoin;Agra - India;India;India;01/07/2014
+ASF_131;Spain;España;Norte de la India;Rajasthan - India;India;India;01/07/2014
+ASF_132;Spain;España;A la sombra del baobab;Isla de Goree - Senegal;Senegal;Senegal;01/03/2017
+ASF_133;Spain;España;La Ciudad Genérica;Torrelavega, Santander - España;Spain;España;01/09/2016
+ASF_134;Brazil;Brasil;Marcos Augusto Ferreira Rocha;San Diego, California - USA;USA;USA;01/01/2016
+ASF_135;Argentina;Argentina;Arquitectos sin ciudades;Brasília - Brasil;Brazil;Brasil;01/09/2016
+ASF_136;Argentina;Argentina;Estado sin límites;Brasília - Brasil;Brazil;Brasil;01/09/2016
+ASF_137;Argentina;Argentina;Forma y espacio;Brasília - Brasil;Brazil;Brasil;01/09/2016
+ASF_138;Italy;Italia;Beirut Apartments ;Beirut - Líbano;Lebanon;Líbano;2015
+ASF_139;Italy;Italia;Hamra ;Beirut - Líbano;Lebanon;Líbano;2015
+ASF_140;Italy;Italia;Achrafieh ;Beirut - Líbano;Lebanon;Líbano;2015
+ASF_141;Cuba;Cuba;El balcón de María;Calle Medio, Matanzas ;Cuba;Cuba;01/03/2017
+ASF_142;Turkey;Turquía;Home;Cunda Island - Turquía;Turkey;Turquía;01/09/2016
+ASF_143;Mexico;México;Lugar de resguardo;Teocaltiche Jalisco ;Mexico;México;01/03/2017
+ASF_144;Portugal;Portugal;Walking home;Port Louis ;Mauritius;Mauricio;01/07/2016
+ASF_145;Portugal;Portugal;Stand alone;Rodrigues Island ;Mauritius;Mauricio;01/06/2016
+ASF_146;Portugal;Portugal;Corrugated iron facade;Port Mathurin, Rodrigues I. ;Mauritius;Mauricio;01/06/2016
+ASF_147;Congo;Congo;Immeuble Pepette Génération;;Congo;Congo;01/05/2012
+ASF_148;Congo;Congo;Un chantier dans la fôret;;Congo;Congo;01/05/2012
+ASF_149;Congo;Congo;Pont Centenaire;;Congo;Congo;01/05/2012
+ASF_150;Iran;Irán;Ardakan, city between future and history;Ardakan - Irán;Iran;Irán;01/09/2011
+ASF_151;Spain;España;Ventana;Velilla de Valderaduey, León - España;Spain;España;
+ASF_152;Spain;España;Calle de la Cruz;Lanzarote - España;Spain;España;01/10/2011
+ASF_153;Argentina;Argentina;Cuán verde era mi valle…;La Paz - Bolivia;Bolivia;Bolivia;01/07/2012
+ASF_154;Argentina;Argentina;De la Paz hacia el Alto;La Paz - Bolivia;Bolivia;Bolivia;01/07/2012
+ASF_155;Argentina;Argentina;Dos ciudades en una;Río de Janeiro - Brasil;Brazil;Brasil;01/07/2012
+ASF_156;Spain;España;Calle de Cusco;Cuzco - Perú                           ;Peru;Perú;01/10/2016
+ASF_157;Spain;España;En construcción;Cuzco - Perú                           ;Peru;Perú;01/10/2016
+ASF_158;Spain;España;Jungla Urbana;Cuzco - Perú                           ;Peru;Perú;01/11/2016
+ASF_159;Spain;España;Origen;"Ouagadougou - Burkina Faso
+";Burkina Faso;Burkina Faso;01/04/2011
+ASF_160;Indonesia;Indonesia;The Other Side of The Fence;Pluit, Jakarta - Indonesia;Indonesia;Indonesia;01/01/2016
+ASF_161;Indonesia;Indonesia;(In)Appropriate Residential;Tanjung Priok, Jakarta - Indonesia;Indonesia;Indonesia;01/06/2016
+ASF_162;Indonesia;Indonesia;Within My Beloved City Jakarta;Jakarta - Indonesia;Indonesia;Indonesia;01/01/2016
+ASF_163;Spain;España;En mitad del desierto;Desierto de Mojave - USA;USA;USA;2016
+ASF_164;Spain;España;Frente al mar;Colombo - Sri Lanka;Sri Lanka;Sri Lanka;2014
+ASF_165;Spain;España;Vecindario;Colombo - Sri Lanka;Sri Lanka;Sri Lanka;2014
+ASF_166;Turkey;Turquía;Peace;Yenibosna, Istanbul - Turquía;Turkey;Turquía;01/03/2017
+ASF_167;Turkey;Turquía;Stratification;Zincirlikuyu, Istanbul - Turquía;Turkey;Turquía;01/03/2017
+ASF_168;Spain;España;Agua sobre lienzo;Villas Flotantes Bahía de Halong - Vietnam;Vietnam;Vietnam;01/08/2016
+ASF_169;Spain;España;Aquí no hay fronteras;Moratalaz, Madrid - España;Spain;España;
+ASF_170;Spain;España;El sentido de las percepciones;Barcelona - España;Spain;España;01/12/2016
+ASF_171;Spain;España;Efecto;Guadalajara - España;Spain;España;01/02/2016
+ASF_172;Colombia;Colombia;Familia feliz;Ciudad Santiago de Cali - Colombia;Colombia;Colombia;17/03/2017
+ASF_173;Colombia;Colombia;Hogar;Ciudad Santiago de Cali - Colombia;Colombia;Colombia;17/03/2017
+ASF_174;Colombia;Colombia;La casa del árbol;Ciudad Santiago de Cali - Colombia;Colombia;Colombia;17/03/2017
+ASF_175;Spain;España;Las lavanderas;Kibera, Nairobi - Kenia;Kenya;Kenia;22/04/2016
+ASF_176;Spain;España;Laini Saba;Kibera, Nairobi - Kenia;Kenya;Kenia;22/08/2016
+ASF_177;Spain;España;Sedimentos;Kibera, Nairobi - Kenia;Kenya;Kenia;22/09/2016
+ASF_178;USA;USA;This is refuge;"West bank, near ein el-sultan camp - Palestina
+                         ";Palestine;Palestina;01/07/2011
+ASF_179;Malaysia;Malasia;Khan Younis;Khan Younis - Gaza;Gaza;Gaza;01/01/2013
+ASF_180;Austria;Austria;"Rocinha 
+ ";Río de Janeiro - Brasil;Brazil;Brasil;01/09/2015
+ASF_181;Austria;Austria;Jakarta;Jakarta - Indonesia;Indonesia;Indonesia;01/09/2014
+ASF_182;Austria;Austria;Utara ;Jakarta - Indonesia;Indonesia;Indonesia;01/09/2014
+ASF_183;Spain;España;Camas;Camas - España;Spain;España;01/08/2013
+ASF_184;Spain;España;Jebha I;El Jebha - Marruecos;Morocco;Marruecos;01/10/2013
+ASF_185;Spain;España;Jebha II;El Jebha - Marruecos;Morocco;Marruecos;01/10/2013
+ASF_186;France;Francia;A lo lejos, la ciudad;La Ensenada, Lima - Perú;Peru;Perú;01/03/2017
+ASF_187;France;Francia;A mitad de camino, la vida cotidiana;La Ensenada, Lima - Perú;Peru;Perú;01/03/2017
+ASF_188;France;Francia;Aquí, ahora. El trabajo para el futuro;La Ensenada, Lima - Perú;Peru;Perú;01/03/2017
+ASF_189;Lithuania;Lituania;Cairo, Egypt. Urban growth;Kathmandu - Nepal;Nepal;Nepal;22/09/2016
+ASF_190;Lithuania;Lituania;Public Housing of Hong Kong;Kathmandu - Nepal;Nepal;Nepal;22/09/2016
+ASF_191;Lithuania;Lituania;Urbanization of Kathmandu, Nepal;Kathmandu - Nepal;Nepal;Nepal;22/09/2016
+ASF_192;Turkey;Turquía;Structure Without Flooring;Princess Island - Turquía;Turkey;Turquía;01/10/2015
+ASF_193;Venezuela;Venezuela;Sueños de Bahareque;Alto Caura, Selva Amazónica - Venezuela;Venezuela;Venezuela;01/01/2017
+ASF_194;Italy;Italia;Land of Gomorrah 1;Ex Villaggio Coppola, Castel Volturno, Napoli, Italy ;Italy;Italia;01/06/2016
+ASF_195;Italy;Italia;Land of Gomorrah 2;Ex Villaggio Coppola, Castel Volturno, Napoli, Italy ;Italy;Italia;01/06/2016
+ASF_196;Italy;Italia;Land of Gomorrah 3;Ex Villaggio Coppola, Castel Volturno, Napoli, Italy ;Italy;Italia;01/06/2016
+ASF_197;Turkey;Turquía;(No)nintervention;Pergamon, İzmir - Turquía;Turkey;Turquía;10/02/2017
+ASF_198;Turkey;Turquía;Woodrocktrap;Karabük - Turquía;Turkey;Turquía;10/02/2015
+ASF_199;Turkey;Turquía;Dig'n'eighborhood;Pergamon, İzmir - Turquía;Turkey;Turquía;10/02/2017
+ASF_200;USA;USA;Cascade of Homes;San Juan Del Sur - Nicaragua;Nicaragua;Nicaragua;01/12/2016
+ASF_201;USA;USA;Along the Water;Islatas de Granada - Nicaragua;Nicaragua;Nicaragua;01/12/2016
+ASF_202;USA;USA;Rivas Street Scene;Rivas - Nicaragua;Nicaragua;Nicaragua;01/12/2016
+ASF_203;Spain;España;Las casas muertas no tienen ventanas, sino cuencas vacías;La Paz - Bolivia;Bolivia;Bolivia;01/12/2015
+ASF_204;Spain;España;Torres sin casas, casas de acera;Bogotá - Colombia;Colombia;Colombia;01/02/2016
+ASF_205;Spain;España;Vivir en el esqueleto;Puerto Maldonado - Perú;Peru;Perú;01/10/2015
+ASF_206;India;India;Jaisalmer - The Golden City;Top of Jaisalmer fort - India;India;India;01/01/2014
+ASF_207;India;India;Jodhpur - The Blue City;Top of Jodhpur fort - India;India;India;01/01/2014
+ASF_208;India;India;The Street - Rajasthan;Jaisalmer City - India;India;India;01/01/2014
+ASF_209;Peru;Perú ;Cola en la estación de metro de Lima;Estacion La Cultura  - Metro de Lima.;Peru;Perú;01/03/2017
+ASF_210;Venezuela;Venezuela;Geometría Ancestral;Alto Caura, Selva Amazonica;Venezuela;Venezuela;01/01/2017
+ASF_211;Venezuela;Venezuela;Secretos Amazonicos;Parque Nacional Sarisariñama, Estado Bolivar;Venezuela;Venezuela;01/01/2017
+ASF_212;Turkey;Turquía;Earthquake;Kocaeli, Turquía ;Turkey;Turquía;01/12/2016
+ASF_213;Turkey;Turquía;Snow and city;Kocaeli, Turquía ;Turkey;Turquía;01/02/2016
+ASF_214;Turkey;Turquía;Bcycle and street;Bursa, Turquía ;Turkey;Turquía;01/08/2016
+ASF_215;France;Francia;Gatagara;Rwanda;Rwanda;Ruanda;10/02/2017
+ASF_216;France;Francia;Kabuye;Rwanda;Rwanda;Ruanda;01/03/2017
+ASF_217;France;Francia;Ruhondo;Rwanda;Rwanda;Ruanda;01/03/2017
+ASF_218;El salvador;El salvador;La vida sin ciudad 1;Ciudad Delgado, El Salvador ;El salvador;El salvador;01/03/2017
+ASF_219;El salvador;El salvador;La vida sin ciudad 2;Ciudad Delgado, El Salvador ;El salvador;El salvador;01/03/2017
+ASF_220;El salvador;El salvador;La vida sin ciudad 3;Ciudad Delgado, El Salvador ;El salvador;El salvador;01/03/2017
+ASF_221;Spain;España;Haití;Puerto principe - Haití;Haiti;Haití;01/12/2016
+ASF_222;Spain;España;Guandules;Santo Domingo - República Dominicana;Dominican Republic;República Dominicana;01/12/2016
+ASF_223;Spain;España;Camp de la Pist;Puerto principe - Haití;Haiti;Haití;01/12/2016
+ASF_224;Spain;España;Edificios invisibles 1;Minas de cuero, Marruecos;Morocco;Marruecos;01/05/2015
+ASF_225;Spain;España;Edificios invisibles 2;Minas de cuero, Marruecos;Morocco;Marruecos;01/05/2015
+ASF_226;Spain;España;Edificios invisibles 3;Panamá;Panama;Panamá;01/07/2015
+ASF_227;Mexico;México;Asentamientos Urbanos 1;Mérida, Yucatán ;Mexico;México;01/03/2017
+ASF_228;Mexico;México;Asentamientos Urbanos 2;Mérida, Yucatán ;Mexico;México;01/03/2017
+ASF_229;Mexico;México;Asentamientos Urbanos 3;Mérida, Yucatán ;Mexico;México;01/03/2017
+ASF_230;Spain;España;Colonizar ;Ibiza, España;Spain;España;01/03/2017
+ASF_231;Spain;España;Sa Caleta;Ibiza, España;Spain;España;01/03/2017
+ASF_232;Spain;España;Fet;Ibiza, España;Spain;España;01/03/2017
+ASF_233;Argentina;Argentina;Desolando el paraíso 1;Valparaíso, Chile.;Chile;Chile;01/03/2017
+ASF_234;Argentina;Argentina;Desolando el paraíso 2;Valparaíso, Chile.;Chile;Chile;01/03/2017
+ASF_235;Argentina;Argentina;Desolando el paraíso 3;Valparaíso, Chile.;Chile;Chile;01/03/2017
+ASF_236;Portugal;Portugal;Afternoon by the river;Luanda, Angola;Angola;Angola;01/07/2014
+ASF_237;Argentina;Argentina;Bajo las Nubes;Calascibetta, Enna, Italia ;Italy;Italia;22/09/2012
+ASF_238;Argentina;Argentina;Resistiendo a la inundaciones;Santa Fe, Argentina;Argentina;Argentina;01/12/2015
+ASF_239;Spain;España;Sobre pilotis;Bangkok tailandia;Thailand;Tailandia;01/01/2014
+ASF_240;Spain;España;Transformadores y sombras;Bangkok tailandia;Thailand;Tailandia;01/01/2014
+ASF_241;Spain;España;Transporte;Nueva Delhi - India;India;India;01/02/2010
+ASF_242;Spain;España;Carlos y la bandera;Cercanías a Plaza de Mayo, Buenos Aires - Argentina;Argentina;Argentina;09/07/2016
+ASF_243;Spain;España;Carlos y Albino I;Cercanías a Plaza de Mayo, Buenos Aires - Argentina;Argentina;Argentina;09/07/2016
+ASF_244;Spain;España;Carlos y Albino I;Cercanías a Plaza de Mayo, Buenos Aires - Argentina;Argentina;Argentina;09/07/2016
+ASF_245;Finland;Finlandia;Town in transformation;San Antonio Palopo - Guatemala;Guatemala;Guatemala;01/03/2017
+ASF_246;Finland;Finlandia;Fear of flooding;San Antonio Palopo - Guatemala;Guatemala;Guatemala;01/03/2017
+ASF_247;Finland;Finlandia;Migrating up mountains;San Antonio Palopo - Guatemala;Guatemala;Guatemala;01/03/2017
+ASF_248;China;China;Beijing Urban - Rural binding;Beijing - China;China;China;24/06/2015
+ASF_249;China;China;Trance Night ;Florencia - Italia;Italy;Italia;01/08/2016
+ASF_250;China;China;Dong drum tower;Guizhou - China;China;China;01/09/2016
+ASF_251;Spain;España;Cañada Real 1;Cañada Real Galiana, Madrid - España;Spain;España;01/03/2016
+ASF_252;Spain;España;Cañada Real 2;Cañada Real Galiana, Madrid - España;Spain;España;01/03/2016
+ASF_253;Spain;España;Cañada Real 3;Cañada Real Galiana, Madrid - España;Spain;España;01/03/2016
+ASF_254;Vietnam ;Vietnam ;Abandoned windows 1;South lake, Hanoi ;Vietnam;Vietnam;01/07/2015
+ASF_255;Vietnam ;Vietnam ;Abandoned windows 2;D site, Hanoi;Vietnam;Vietnam;01/07/2015
+ASF_256;Vietnam ;Vietnam ;Abandoned windows 3;Van phuc urban area, Hanoi ;Vietnam;Vietnam;01/07/2015
+ASF_257;Spain;España;Móstoles Río Guadarrama 1;Parque Coimbra, río Guadarrama, Móstoles ;Spain;España;19/03/2017
+ASF_258;Spain;España;Móstoles Río Guadarrama 2;Parque Coimbra, río Guadarrama, Móstoles ;Spain;España;19/03/2017
+ASF_259;Spain;España;Móstoles Río Guadarrama 3;Parque Coimbra, río Guadarrama, Móstoles ;Spain;España;19/03/2017
+ASF_260;Spain;España;Suburbia;Santa Cruz de Tenerife - España;Spain;España;19/03/2017
+ASF_261;Spain;España;En el suelo;Santa Cruz de Tenerife - España;Spain;España;19/03/2017
+ASF_262;Spain;España;Ruina;Santa Cruz de Tenerife - España;Spain;España;19/03/2017
+ASF_263;Argentina;Argentina;Caos ;Udaipur city, Rajasthan - India;India;India;01/01/2012
+ASF_264;Argentina;Argentina;Contraste;Mumbai - India;India;India;01/01/2012
+ASF_265;Argentina;Argentina;Desequilibrio;Kathmandú - Nepal;Nepal;Nepal;01/01/2012
+ASF_266;Turkey;Turquía;White box - No 22;Kumkapi, Istanbul - Turquía;Turkey;Turquía;15/03/2017
+ASF_267;Turkey;Turquía;White box - Kiss;Kumkapi, Istanbul - Turquía;Turkey;Turquía;15/03/2017
+ASF_268;Argentina;Argentina;Somos parte;Río de Janeiro - Brasil ;Brazil;Brasil;09/02/2017
+ASF_269;Argentina;Argentina;Palafitos;Castro, Chiloe - Chile;Chile;Chile;28/01/2015
+ASF_270;Argentina;Argentina;Licancabur;"San Pedro de Atacama - Chile 
+";Chile;Chile;30/12/2014
+ASF_271;Portugal;Portugal;Ana Travasso 1;Ait Ben Haddou - Marruecos;Morocco;Marruecos;27/02/2017
+ASF_272;Portugal;Portugal;Ana Travasso 2;Fez - Marruecos;Morocco;Marruecos;16/02/2010
+ASF_273;Portugal;Portugal;Ana Travasso 3;Tinghir - Marruecos;Morocco;Marruecos;27/02/2017
+ASF_274;Argentina;Argentina;Cabo de la Vela;Cabo de la Vela, Península de la Guajira - Colombia;Colombia;Colombia;01/09/2015
+ASF_275;Argentina;Argentina;Tilcara;Tilcara, Jujuy - Argentina;Argentina;Argentina;01/02/2015
+ASF_276;Argentina;Argentina;Valizas;Valizas, Departamento de Rocha - Uruguay;Uruguay;Uruguay;01/03/2016
+ASF_277;Argentina;Argentina;Reflejos de una ciudad ;Barrio Agustoni, Buenos Aires, Argentina;Argentina;Argentina;11/03/2017
+ASF_278;Argentina;Argentina;Un día en su vivienda;Barrio Agustoni, Buenos Aires, Argentina;Argentina;Argentina;24/05/2015
+ASF_279;Argentina;Argentina;Sobreviviendo a la inundación;Barrio Agustoni, Buenos Aires, Argentina;Argentina;Argentina;11/03/2017
+ASF_280;Peru;Perú ;Cerro El Agustino;Cerro El Agustino, Lima - Perú;Peru;Perú;04/05/2012
+ASF_281;Peru;Perú ;Ciudad de Belén 1;Ciudad de Belén, Iquitos - Perú;Peru;Perú;15/03/2014
+ASF_282;Peru;Perú ;Ciudad de Belén 2;Ciudad de Belén, Iquitos - Perú;Peru;Perú;21/12/2014
+ASF_283;Colombia;Colombia;Esperanza;Turbo, Antioquia, Colombia;Colombia;Colombia;09/09/2016
+ASF_284;Colombia;Colombia;Inocencia;Turbo, Antioquia, Colombia;Colombia;Colombia;09/09/2016
+ASF_285;Turkey;Turquía;Congestion 1;Istanbul - Turquía;Turkey;Turquía;01/02/2011
+ASF_286;Turkey;Turquía;Congestion 2;Istanbul - Turquía;Turkey;Turquía;01/03/2011
+ASF_287;Turkey;Turquía;Congestion 3;Ankara - Turquía;Turkey;Turquía;01/12/2011
+ASF_288;Turkey;Turquía;On the river. Part 1;Siemreap - Camboya;Cambodia;Camboya;01/08/2015
+ASF_289;Turkey;Turquía;On the river. Part 2;Siemreap - Camboya;Cambodia;Camboya;01/08/2015
+ASF_290;Turkey;Turquía;On the river. Part 3;Siemreap - Camboya;Cambodia;Camboya;01/08/2015
+ASF_291;Spain;España;Construcción básica;Bocachica - Rep. Dominicana;Dominican Republic;República Dominicana;20/02/2014
+ASF_292;Spain;España;La linde de la exclusión;Bocachica - Rep. Dominicana;Dominican Republic;República Dominicana;20/02/2014
+ASF_293;Spain;España;Matemáticas bajo uralita;Bocachica - Rep. Dominicana;Dominican Republic;República Dominicana;20/02/2014
+ASF_294;Portugal;Portugal;Huambo;Arredores da cidade Huambo - Angola;Angola;Angola;29/11/2010
+ASF_295;Portugal;Portugal;Lobito;Arredores da cidade Lobito - Angola;Angola;Angola;01/12/2010
+ASF_296;Portugal;Portugal;Luanda;Luanda - Angola;Angola;Angola;03/12/2010
+ASF_297;Spain;España;Laberinto ;Fez - Marruecos;Morocco;Marruecos;01/12/2016
+ASF_298;Spain;España;Latón ;Iquitos - Perú ;Peru;Perú;01/03/2015
+ASF_299;Spain;España;Enjambre ;Fez - Marruecos ;Morocco;Marruecos;01/12/2016
+ASF_300;Italy;Italia;With is out 1;Sarajevo - Bosnia Herzegovina;Bosnia Herzegovina;Bosnia Herzegovina;01/08/2012
+ASF_301;Italy;Italia;With is out 2;Sarajevo - Bosnia Herzegovina;Bosnia Herzegovina;Bosnia Herzegovina;01/08/2012
+ASF_302;Italy;Italia;With is out 3;Sarajevo - Bosnia Herzegovina;Bosnia Herzegovina;Bosnia Herzegovina;01/08/2012
+ASF_303;Italy;Italia;Resilient City 1;Alessandrino district, Rome - Italia;Italy;Italia;01/03/2017
+ASF_304;Italy;Italia;Resilient City 2;Alessandrino district, Rome - Italia;Italy;Italia;01/03/2017
+ASF_305;Italy;Italia;Resilient City 3;Alessandrino district, Rome - Italia;Italy;Italia;01/03/2017
+ASF_306;Georgia;Georgia;Abandoned train station 1;Tiflis ;Georgia;Georgia;2013
+ASF_307;Georgia;Georgia;Abandoned train station 2;Tiflis ;Georgia;Georgia;2013
+ASF_308;Georgia;Georgia;Chaos;Tiflis ;Georgia;Georgia;2014
+ASF_309;Brazil;Brasil;Tranquilidade;Barra Funda, São Paulo ;Brazil;Brasil;2016
+ASF_310;Brazil;Brasil;Desespero;Barra Funda, São Paulo ;Brazil;Brasil;2016
+ASF_311;Brazil;Brasil;Solidão;Barra Funda, São Paulo ;Brazil;Brasil;2016
+ASF_312;Guatemala;Guatemala;Casa Saquiché;Reserva Natural Saquiché San Andrés Semetabaj;Guatemala;Guatemala;12/09/2012
+ASF_313;Guatemala;Guatemala;Casa San Antonio Palopó;San Antonio Palopó ;Guatemala;Guatemala;01/08/2013
+ASF_314;Guatemala;Guatemala;Caserío Chutinamit;Reserva Natural Saquiché San Andrés Semetabaj - Guatemala;Guatemala;Guatemala;07/07/2010
+ASF_315;Portugal;Portugal;La apropiación ;Mercado do Bolhão, Porto ;Portugal;Portugal;09/09/2016
+ASF_316;Portugal;Portugal;Efímero;Mercado do Bolhão, Porto ;Portugal;Portugal;09/09/2016
+ASF_317;Portugal;Portugal;Economía de Subsistencia;Salinas de Aveiro ;Portugal;Portugal;01/03/2017
+ASF_318;Spain;España;Cuatro Torres Slum Area;Madrid ;Spain;España;17/09/2013
+ASF_319;Spain;España;BCN hole 1;Barcelona ;Spain;España;10/10/2010
+ASF_320;Spain;España;BCN hole 2;Barcelona ;Spain;España;10/10/2010
+ASF_321;Mexico;México;Esperanzas inocentes;Comunidad de la Ermita, Ejutla de Crespo Oaxaca, México;Mexico;México;04/10/2016
+ASF_322;Mexico;México;Desde mis entrañas, me duele mi gente;Comunidad de la Ermita, Ejutla de Crespo Oaxaca, México;Mexico;México;04/10/2016
+ASF_323;Mexico;México;Soy latinoamérica;Comunidad de la Ermita, Ejutla de Crespo Oaxaca, México;Mexico;México;04/10/2016
+ASF_324;Spain;España;Aferghan;Bou Taghrar-Alemdoune, Valle del Mgoun;Morocco;Marruecos;04/11/2016
+ASF_325;Spain;España;Ifri;Agdz- Tamallakout ;Morocco;Marruecos;04/11/2016
+ASF_326;Spain;España;Jaima;Agdz- Tamallakout;Morocco;Marruecos;04/11/2016
+ASF_327;Spain;España;Huellas 1;Honquilana, Ávila ;Spain;España;01/12/2010
+ASF_328;Spain;España;Huellas 2;Honquilana, Ávila ;Spain;España;01/12/2010
+ASF_329;Spain;España;Huellas 3;Honquilana, Ávila ;Spain;España;01/12/2010
+ASF_330;Colombia;Colombia;Mudando vivienda hasta la última tabla;Guajira;Colombia;Colombia;20/01/2016
+ASF_331;Colombia;Colombia;Mi rancho policromático;Guajira;Colombia;Colombia;20/01/2016
+ASF_332;Colombia;Colombia;Fuga de palos;Guajira;Colombia;Colombia;20/01/2016
+ASF_333;Brazil;Brasil;Park Cravinhos;Park Cravinhos, São Paulo ;Brazil;Brasil;09/06/2009
+ASF_334;Mexico;México;Hogar en las vías;Naucalpan centro, Naucálpan de Juárez ;Mexico;México;22/03/2017
+ASF_335;Mexico;México;Montaña Gris;U.H el Tenayo, Tlalnepantla ;Mexico;México;19/03/2017
+ASF_336;Mexico;México;Paracaidistas al borde del río de aguas negras;Naucalpan centro, Naucálpan de Juárez;Mexico;México;22/03/2017
+ASF_337;Switzerland;Suiza;In between;La Paz ;Bolivia;Bolivia;01/08/2013
+ASF_338;Chile;Chile;Joke;Villa Cerro Castillo, Coyhaique. Región de Aysén;Chile;Chile;07/02/2017
+ASF_339;Italy;Italia;Informal city;Jaipur, Rajasthan;India;India;22/01/2017
+ASF_340;Austria;Austria;Estero de San Miguel;Estero de San Miguel, Manila ;Philippines;Filipinas;01/02/2012
+ASF_341;Austria;Austria;Manila;Manila ;Philippines;Filipinas;01/02/2012
+ASF_342;Austria;Austria;San Pedro;San Pedro ;Philippines;Filipinas;01/02/2012
+ASF_343;Spain;España;Made in África 1;Burkina Faso ;Burkina Faso;Burkina Faso;01/08/2016
+ASF_344;Spain;España;Made in África 2;Burkina Faso ;Burkina Faso;Burkina Faso;01/08/2016
+ASF_345;Spain;España;Made in África 3;Burkina Faso ;Burkina Faso;Burkina Faso;01/08/2016
+ASF_346;Spain;España;Tortuguero;Costa Rica;Costa Rica;Costa Rica;29/08/2016
+ASF_347;Brazil;Brasil;Neighborhood;Radial Leste Avenue, São Paulo;Brazil;Brasil;19/03/2017
+ASF_348;Brazil;Brasil;Waiting room;Radial Leste Avenue, São Paulo ;Brazil;Brasil;19/03/2017
+ASF_349;Brazil;Brasil;Shelter in the wall;Radial Leste Avenue, São Paulo;Brazil;Brasil;19/03/2017
+ASF_350;Peru;Perú ;Viviendas colapsadas habitadas;Cusco ;Peru;Perú;23/02/2015
+ASF_351;Colombia;Colombia;Los viajes que olvidamos;Estación de tren abandonada de Timba, Valle del Cauca;Colombia;Colombia;06/02/2017
+ASF_352;Argentina;Argentina;A orillas del mar ;Región de Tarapacá ;Chile;Chile;01/12/2016
+ASF_353;Argentina;Argentina;De árboles y lodo;Desierto de Atacama;Chile;Chile;01/01/2017
+ASF_354;Argentina;Argentina;Desde el cielo;Región de Tarapacá ;Chile;Chile;01/12/2016
+ASF_355;Peru;Perú ;Casa segura;Villa El Salvador, Lima;Peru;Perú;01/11/2015
+ASF_356;Peru;Perú ;Pueblo joven;Villa El Salvador, Lima;Peru;Perú;01/11/2015
+ASF_357;Peru;Perú ;Vivo allisito nomas;Villa El Salvador, Lima;Peru;Perú;01/11/2015
+ASF_358;Mexico;México;Sin código postal 1;Ciudad de México;Mexico;México;2010
+ASF_359;Mexico;México;Sin código postal 2;Ciudad de México;Mexico;México;2010
+ASF_360;Mexico;México;Sin código postal 3;Ciudad de México;Mexico;México;2010
+ASF_361;India;India;Frayed;Lakkundi village, North Karnataka;India;India;01/02/2017
+ASF_362;India;India;Splintered;Lakkundi village, North Karnataka;India;India;01/02/2017
+ASF_363;India;India;Streets;Lakkundi village, North Karnataka;India;India;01/02/2017
+ASF_364;Italy;Italia;City With(out) Townhouses;Kigeme Refugee Camp;Rwanda;Ruanda;01/03/2016
+ASF_365;Italy;Italia;House With(out) A Yard;Kigeme Refugee Camp;Rwanda;Ruanda;01/03/2016
+ASF_366;Italy;Italia;Wall With(out) A Door;Kigeme Refugee Camp;Rwanda;Ruanda;01/03/2016
+ASF_367;Colombia;Colombia;Corregimiento Andino;Tupiza;Bolivia;Bolivia;01/11/2015
+ASF_368;Greece;Grecia;White elephants slums 1;Mataderos, Buenos Aires;Argentina;Argentina;01/05/2015
+ASF_369;Greece;Grecia;White elephants slums 2;Mataderos, Buenos Aires;Argentina;Argentina;01/05/2015
+ASF_370;Greece;Grecia;White elephants slums 3;Mataderos, Buenos Aires;Argentina;Argentina;01/05/2015
+ASF_371;Spain;España;Maisons;Guet N'Dar, Saint-Louis;Senegal;Senegal;01/01/2017
+ASF_372;Spain;España;Ya veremos;Addis Abeba;Ethiopia;Etiopía;01/06/2014
+ASF_373;Spain;España;Proyectando;Kigwena;Burundi;Burundi;01/06/2014
+ASF_374;Spain;España;Ciudades con arquitectura material;Madrid ;Spain;España;01/02/2017
+ASF_375;Spain;España;Arquitectura de importación;Jembesse;Mozambique;Mozambique;01/08/2013
+ASF_376;Spain;España;Lodazal urbano;Ilha de Moçambique;Mozambique;Mozambique;01/08/2013
+ASF_377;Spain;España;Cimientos vistos;Anantapur, Andhra Pradesh;India;India;01/03/2017
+ASF_378;Spain;España;Segunda planta con vistas;Kuderu, Andhra Pradesh;India;India;01/03/2017
+ASF_379;Colombia;Colombia;En las montañas del Valle;Fenicia, Riofrío. Valle del Cauca;Colombia;Colombia;01/06/2013
+ASF_380;Colombia;Colombia;Vecindario verde para cartón;Fenicia, Riofrío. Valle del Cauca;Colombia;Colombia;01/06/2013
+ASF_381;Colombia;Colombia;Plátano en el jardín;Andinápolis, Trujillo. Valle del Cauca;Colombia;Colombia;01/04/2013
+ASF_382;Taiwan;Taiwán;Africa village;Kenya ;Kenya;Kenia;01/09/2016
+ASF_383;Taiwan;Taiwán;Life is keeping living;Kenya ;Kenya;Kenia;01/09/2016
+ASF_384;Taiwan;Taiwán;Nature House;Kenya ;Kenya;Kenia;01/09/2016
+ASF_385;Colombia;Colombia;Habitabilidad 1;Barrio Ricardo Balcázar, Valle del Cauca;Colombia ;Colombia ;27/04/2010
+ASF_386;Colombia;Colombia;Habitabilidad 2;Barrio Ricardo Balcázar, Valle del Cauca;Colombia ;Colombia ;27/04/2010
+ASF_387;Colombia;Colombia;Habitabilidad 3;Barrio Ricardo Balcázar, Valle del Cauca;Colombia ;Colombia ;27/04/2010
+ASF_388;Spain;España;Bedtime;Lima;Peru;Perú;11/10/2015
+ASF_389;Peru;Perú ;Habitando entre la basura;Santa Ana, Cusco ;Peru;Perú;05/07/2014
+ASF_390;Peru;Perú ;Vivienda con puntales y aguas negra;Cusco ;Peru;Perú;11/03/2015
+ASF_391;Argentina;Argentina;Mejoras en la Villa 31;Buenos Aires ;Argentina;Argentina;23/03/2017
+ASF_392;Argentina;Argentina;Mejoras en la Villa 31 I;Buenos Aires ;Argentina;Argentina;23/03/2017
+ASF_393;Argentina;Argentina;Mejoras en la Villa 31 II;Buenos Aires ;Argentina;Argentina;23/03/2017
+ASF_394;Spain;España;Inundación de Felicidad 1;Varanasi;India;India;01/08/2016
+ASF_395;Spain;España;Inundación de Felicidad 2;Varanasi;India;India;01/08/2016
+ASF_396;Spain;España;Inundación de Felicidad 3;Varanasi;India;India;01/08/2016
+ASF_397;Bulgaria;Bulgaria;Footsteps in the Sand 1;Gorno Lukovo;Bulgaria;Bulgaria;01/07/2015
+ASF_398;Bulgaria;Bulgaria;Footsteps in the Sand 2;Gorno Lukovo;Bulgaria;Bulgaria;01/07/2015
+ASF_399;Bulgaria;Bulgaria;Footsteps in the Sand 3;Gorno Lukovo;Bulgaria;Bulgaria;01/07/2015
+ASF_400;Spain;España;El alma de la favela;Salvador de Bahía;Brazil;Brasil;01/07/2015
+ASF_401;Spain;España;Lo que la arquitectura unió;Salvador de Bahía;Brazil;Brasil;01/07/2015
+ASF_402;Portugal;Portugal;Abandono;Jardim Gramacho, Río de Janeiro ;Brazil;Brasil;2015
+ASF_403;Portugal;Portugal;Fome;Jardim Gramacho, Río de Janeiro ;Brazil;Brasil;2015
+ASF_404;Portugal;Portugal;Trash;Jardim Gramacho, Río de Janeiro ;Brazil;Brasil;2015
+ASF_405;Brazil;Brasil;Barro;Morro do Vidigal, Río de Janeiro;Brazil;Brasil;2013
+ASF_406;Brazil;Brasil;Caos ;Morro do Vidigal, Río de Janeiro;Brazil;Brasil;2013
+ASF_407;Brazil;Brasil;Mosaico;Morro Santo Amaro, Río de Janeiro;Brazil;Brasil;2017
+ASF_408;Brazil;Brasil;Casa velha;Pinhais;Brazil;Brasil;23/03/2017
+ASF_409;Brazil;Brasil;Casa de madeira;Pinhais;Brazil;Brasil;23/03/2017
+ASF_410;Brazil;Brasil;Casa velha de madeira;Pinhais;Brazil;Brasil;23/03/2017
+ASF_411;Spain;España;Mujer en Chaungtha;Chaungtha;Myanmar;Birmania;01/09/2012
+ASF_412;Spain;España;Anciana Tatasomba;Tatasomba;Benin;Benín;01/09/2014
+ASF_413;Italy;Italia;Post-beautification;Guayaquil ;Ecuador;Ecuador;12/07/2015
+ASF_414;Italy;Italia;Post-desalojo;Guayaquil ;Ecuador;Ecuador;19/07/2015
+ASF_415;Italy;Italia;Post-terremoto;Chamanga;Ecuador;Ecuador;21/08/2016
+ASF_416;Spain;España;Favela Rocinha;Río de Janeiro ;Brazil;Brasil;2014
+ASF_417;Spain;España;Barrio fantasma;Hebrón;West Bank;Cisjordania;2012
+ASF_418;Spain;España;Comuna Trece;Medellín;Colombia;Colombia;2016
+ASF_419;Turkey;Turquía;Layers of Izmir;Mavişehir, Izmir;Turkey;Turquía;23/03/2017
+ASF_420;Turkey;Turquía;Whose city?;Mavişehir, Izmir;Turkey;Turquía;23/03/2017
+ASF_421;Bolivia;Bolivia;Juego con la identidad local;Valle de Cinti - Camargo, Chuquisaca ;Bolivia;Bolivia;01/04/2015
+ASF_422;Bolivia;Bolivia;Texturas de la comunidad;Valle de Cinti - Camargo, Chuquisaca ;Bolivia;Bolivia;01/08/2015
+ASF_423;Bolivia;Bolivia;Vivienda en relación con la identidad local;Cercado - San Andrés , Tarija;Bolivia;Bolivia;01/07/2016
+ASF_424;Turkey;Turquía;Master Architect;Ceske Budejovice;Czech Republic;República Checa;01/02/2016
+ASF_425;Turkey;Turquía;Blind Facade;Bremen;Germany;Alemania;01/04/2016
+ASF_426;Turkey;Turquía;Azure;Budapest;Hungary;Hungría;01/05/2016
+ASF_427;Argentina;Argentina;Escombro sobre verde 1;Villa Urquiza;Argentina;Argentina;23/03/2017
+ASF_428;Argentina;Argentina;Escombro sobre verde 2;Villa Urquiza;Argentina;Argentina;23/03/2017
+ASF_429;Italy;Italia;Clean;Mathare Slum. Nairobi ;Kenya;Kenia;01/08/2011
+ASF_430;Italy;Italia;Home;Mathare Slum. Nairobi ;Kenya;Kenia;01/08/2011
+ASF_431;Italy;Italia;Main street;Mathare Slum. Nairobi ;Kenya;Kenia;01/08/2011
+ASF_432;Spain;España;Mumbai I;Mumbai ;India;India;01/09/2015
+ASF_433;Spain;España;Mumbai II;Mumbai ;India;India;01/09/2015
+ASF_434;Spain;España;Mumbai III;Mumbai ;India;India;01/09/2015
+ASF_435;Spain;España;Anarquía urbana ;La Paz ;Bolivia;Bolivia;25/03/2016
+ASF_436;Spain;España;Metamorfosis;Tinejdad;Morocco;Marruecos;01/09/2011
+ASF_437;Brazil;Brasil;Ventana del caos;;Brazil;Brasil;
+ASF_438;Brazil;Brasil;Ciudad de piedras;;Brazil;Brasil;
+ASF_439;Brazil;Brasil;Doblando la esquina;;Brazil;Brasil;
+ASF_440;Spain;España;La casa ;Siem Reap;Cambodia;Camboya;22/07/2015
+ASF_441;Spain;España;Con balcón incluido;Can Tho;Vietnam;Vietnam;22/07/2015
+ASF_442;Spain;España;La casa de madera;Siem Reap;Cambodia;Camboya;22/07/2015
+ASF_443;Spain;España;Cerro de San Cosme ;Cerro de San Cosme, Lima;Peru;Perú;23/10/2012
+ASF_444;Spain;España;Lomas de Carabayllo ;Lomas de Carabayllo, Lima;Peru;Perú;11/11/2012
+ASF_445;Spain;España;Punta Negra ;Punta Negra, Lima;Peru;Perú;02/10/2012
+ASF_446;Italy;Italia;Flooding at school;Kinsasa;DR Congo;RD Congo;2015
+ASF_447;Italy;Italia;Over the bridge;Kinsasa;DR Congo;RD Congo;2015
+ASF_448;Italy;Italia;Le grand marché;Kinsasa;DR Congo;RD Congo;2015
+ASF_449;Mexico;México;Nadie y ninguno 1;Ecatepec de Morelos;Mexico;México;23/03/2017
+ASF_450;Mexico;México;Nadie y ninguno 2;Ecatepec de Morelos;Mexico;México;23/03/2017
+ASF_451;Mexico;México;Nadie y ninguno 3;Ecatepec de Morelos;Mexico;México;23/03/2017
+ASF_452;Bolivia;Bolivia;We are the mountain ;La Paz;Bolivia;Bolivia;23/03/2017
+ASF_453;Bolivia;Bolivia;I miss you green ;La Paz;Bolivia;Bolivia;23/03/2017
+ASF_454;Bolivia;Bolivia;Could you find me?;La Paz;Bolivia;Bolivia;23/03/2017
+ASF_455;India;India;Growth over years ;Pushkar, Rajathan;India;India;12/11/2011
+ASF_456;India;India;Mono city;Jaisalmer, Rajasthan;India;India;11/02/2016
+ASF_457;India;India;Jugaad ;Ahmedabad;India;India;02/02/2014
+ASF_458;Venezuela;Venezuela;La Habana;La Habana;Cuba;Cuba;01/12/2016
+ASF_459;India;India;Warning; Mumbai;India;India;23/03/2017
+ASF_460;India;India;Life by the tracks; Mumbai;India;India;23/03/2017
+ASF_461;India;India;Adjustements; Mumbai;India;India;23/03/2017
+ASF_462;Turkey;Turquía;Harran;Harrán, Sanliurfa;Turkey;Turquía;
+ASF_463;Turkey;Turquía;Taskale 1;Taskale, Karaman;Turkey;Turquía;
+ASF_464;Turkey;Turquía;Taskale 2;Taskale, Karaman;Turkey;Turquía;
+ASF_465;Mexico;México;La entrada;Michoacán;Mexico;México;01/01/2015
+ASF_466;Mexico;México;Dulce hogar;Michoacán;Mexico;México;01/01/2015
+ASF_467;Mexico;México;Habitación principal;Michoacán;Mexico;México;01/01/2015
+ASF_468;Mexico;México;Desgaste;Tonalá Jalisco;Mexico;México;2013
+ASF_469;Bulgaria;Bulgaria;Gone;Matera;Italy;Italia;01/02/2016
+ASF_470;Mexico;México;Invasión de áreas naturales;Iztapalapa, Ciudad de México;Mexico;México;11/02/2017
+ASF_471;Mexico;México;Metro de la Ciudad de México;Metro Pantitlan, Ciudad de México;Mexico;México;11/02/2017
+ASF_472;Mexico;México;Metrópoli;Chimalhuacán, Ciudad de México;Mexico;México;21/04/2015
+ASF_473;Spain;España;Luz y sombra 1;Cádiz;Spain;España;2016
+ASF_474;Spain;España;Luz y sombra 2;Cádiz;Spain;España;2016
+ASF_475;Spain;España;Luz y sombra 3;Cádiz;Spain;España;2016
+ASF_476;Germany;Alemania;Workers' Huts;El desierto del Namib;Namibia;Namibia;21/04/2014
+ASF_477;Germany;Alemania;Township;Ciudad del Cabo;South Africa;Sudáfrica;21/05/2014
+ASF_478;Germany;Alemania;"Miners´ Homes
+
+";Antofagasta;Chile;Chile;26/11/2016
+ASF_479;Spain;España;El banco del barrio;Ciudad Les Cayes;Haiti;Haití;11/01/2017
+ASF_480;Spain;España;La vida sigue tras el huracán Matthew;Tiburón, Región de Cayes;Haiti;Haití;11/01/2017
+ASF_481;Spain;España;El color no se perdió;Pueblo de la región de Cayes;Haiti;Haití;11/01/2017
+ASF_482;Spain;España;Worker with metal hut;Bangkok;Thailand;Tailandia;23/03/2017
+ASF_483;Spain;España;Women eating ;Bangkok;Thailand;Tailandia;23/03/2017
+ASF_484;Spain;España;Women ironing;Bangkok;Thailand;Tailandia;23/03/2017
+ASF_485;Spain;España;Urbanismo olvidado;Rehoboth;Namibia;Namibia;22/07/2017
+ASF_486;Spain;España;Un país por descubrir-construir;Epupa Falls;Namibia;Namibia;22/07/2017
+ASF_487;Turkey;Turquía;Bazaar in castle;Seferihisar,  İzmir;Turkey;Turquía;01/09/2016
+ASF_488;Turkey;Turquía;Catastrophic order;Tire, İzmir;Turkey;Turquía;01/08/2016
+ASF_489;Turkey;Turquía;Don't step on it;Venecia;Italy;Italia;01/07/2015
+ASF_490;Turkey;Turquía;Ankara;Ankara, Ulus;Turkey;Turquía;22/02/2017
+ASF_491;Italy;Italia;Assemblage;Pokhara;Nepal;Nepal;01/01/2016
+ASF_492;Italy;Italia;Seismic vulnerability;Sankhu;Nepal;Nepal;01/01/2016
+ASF_493;Italy;Italia;Urban reinforcements;Patan;Nepal;Nepal;01/01/2016
+ASF_494;Italy;Italia;The city of invisible workers - Common space;Nardò, Puglia ;Italy;Italia;01/05/2016
+ASF_495;Italy;Italia;The city of invisible workers - Living habitat;Nardò, Puglia ;Italy;Italia;01/05/2016
+ASF_496;Italy;Italia;The city of invisible workers - Toilet;Nardò, Puglia ;Italy;Italia;01/05/2016
+ASF_497;Italy;Italia;A Tapis Rouge for Port-au-Prince;Port-au-Prince;Haiti;Haití;01/08/2016
+ASF_498;Spain;España;El Derribo;;Vietnam;Vietnam;22/02/2017
+ASF_499;Spain;España;Balbeek;valle de la Bekaá;Lebanon;Líbano;01/06/2016
+ASF_500;Spain;España;Macedonia;Ciudad de Kilkis, Central Macedonia;Greece;Grecia;01/05/2016
+ASF_501;Spain;España;Shatila;Shatila, Beirut;Lebanon;Líbano;01/06/2016
+ASF_502;Spain;España;Cities with extra-architecture;Valencia;Spain;España;22/02/2017
+ASF_503;Spain;España;​​​​Do it yourself (DIY);Chimanimani;Zimbabwe;Zimbabwe;01/08/2014
+ASF_504;Spain;España;Energías sin arquitectos;;Morocco;Marruecos;2012
+ASF_505;Spain;España;Menos es más;;Morocco;Marruecos;2012
+ASF_506;Spain;España;Estratos;;Morocco;Marruecos;2012
+ASF_507;Venezuela;Venezuela;Rancho 1;Caracas;Venezuela;Venezuela;23/03/2017
+ASF_508;Venezuela;Venezuela;Rancho 2;Caracas;Venezuela;Venezuela;23/03/2017
+ASF_509;Venezuela;Venezuela;Rancho 3;Caracas;Venezuela;Venezuela;23/03/2017
+ASF_510;Austria;Austria;Entre montañas;Ciudadela Sucre, Soacha;Colombia;Colombia;01/11/2014
+ASF_511;Austria;Austria;Para el cielo;Ciudadela Sucre, Soacha;Colombia;Colombia;01/11/2014
+ASF_512;Spain;España;Behind the white line;Soweto;South Africa;Sudáfrica;01/10/2016
+ASF_513;Spain;España;No rules;Johannesburgo;South Africa;Sudáfrica;01/11/2012
+ASF_514;Spain;España;Don't come out;Johannesburgo;South Africa;Sudáfrica;01/10/2016
+ASF_515;Spain;España;Calle torreblanca;Sevilla;Spain;España;
+ASF_516;Spain;España;Casas torreblanca;Sevilla;Spain;España;
+ASF_517;Spain;España;Chabola torneo;Sevilla;Spain;España;
+ASF_518;Spain;España;Tierra de todos;Morón;Mongolia;Mongolia;2016
+ASF_519;Spain;España;Tierra de un Imperio;Tsagaan nur;Mongolia;Mongolia;2016
+ASF_520;Spain;España;Tierra de pastores;Tribu Tsaatan;Mongolia;Mongolia;2016
+ASF_521;Albania;Albania;Train station in Albania 1;Tirane(Kashar) ;Albania;Albania;23/03/2017
+ASF_522;Albania;Albania;Train station in Albania 2;Tirane(Kashar) ;Albania;Albania;23/03/2017
+ASF_523;Albania;Albania;Train station in Albania 3;Tirane(Kashar) ;Albania;Albania;23/03/2017
+ASF_524;Spain;España;¿Por qué construimos antes de urbanizar?;Santiago de Compostela;Spain;España;23/03/2017
+ASF_525;Spain;España;La polis y el caos;Santiago de Compostela;Spain;España;23/03/2017
+ASF_526;Spain;España;Equilibrio de color;Santiago de Compostela;Spain;España;23/03/2017
+ASF_527;Bolivia;Bolivia;Confrontación;Cotahuma, La paz;Bolivia;Bolivia;23/03/2017
+ASF_528;Bolivia;Bolivia;Qamasa;Cotahuma, La paz;Bolivia;Bolivia;01/08/2012
+ASF_529;Bolivia;Bolivia;Kullu Uta;Alto Tejar ,La Paz;Bolivia;Bolivia;01/05/2010
+ASF_530;Spain;España;The no-ones habitat;Hanoi;Vietnam;Vietnam;01/12/2015
+ASF_531;Spain;España;Asfaltando el camino;Hidalgo;Mexico;México;01/06/2015
+ASF_532;Spain;España;Cansado de esto;Hidalgo;Mexico;México;01/06/2015
+ASF_533;Spain;España;Mucho por hacer;Hidalgo;Mexico;México;01/06/2015
+ASF_534;Turkey;Turquía;Without architecture;Kuştepe / İstanbul;Turkey;Turquía;
+ASF_535;Spain;España;Urban Ocean 1;Chittorgarh ;India;India;
+ASF_536;Spain;España;Urban Ocean 2;Chittorgarh ;India;India;
+ASF_537;Spain;España;Urban Ocean 3;Jodhpur;India;India;
+ASF_538;Colombia;Colombia;Tierra bomba 1;Tierra bomba, Cartagena de Indias;Colombia;Colombia;01/02/2010
+ASF_539;Colombia;Colombia;Tierra bomba 2;Tierra bomba, Cartagena de Indias;Colombia;Colombia;01/02/2010
+ASF_540;Colombia;Colombia;Tierra bomba 3;Tierra bomba, Cartagena de Indias;Colombia;Colombia;01/02/2010
+ASF_541;Colombia;Colombia;Ancianos sin lugar;Cali ;Colombia;Colombia;01/07/2016
+ASF_542;Colombia;Colombia;Habitante de la calle;Cali ;Colombia;Colombia;01/07/2016
+ASF_543;Colombia;Colombia;Niños sin espacio;Cali ;Colombia;Colombia;01/07/2016
+ASF_544;Italy;Italia;Mumbai blue roofs;Mumbai;India;India;01/08/2015
+ASF_545;Italy;Italia;Between earth and sky;Nairobi ;Kenya;Kenia;01/09/2014
+ASF_546;Italy;Italia;How are you;Nairobi ;Kenya;Kenia;01/09/2014
+ASF_547;Mexico;México;Holybaba 1;Pushkar, Rajasthan;India;India;01/03/2014
+ASF_548;Mexico;México;Holybaba 2;Pushkar, Rajasthan;India;India;01/03/2014
+ASF_549;Mexico;México;Holybaba 3;Pushkar, Rajasthan;India;India;01/03/2014
+ASF_550;Italy;Italia;Favelas;Salvador;Brazil;Brasil;01/05/2016
+ASF_551;Italy;Italia;Survival house;Lauro de Freitas;Brazil;Brasil;01/08/2016
+ASF_552;Italy;Italia;Crowded house;Rio de Janeiro;Brazil;Brasil;01/08/2016
+ASF_553;Italy;Italia;Public seat ;Atenas;Greece;Grecia;01/08/2015
+ASF_554;Italy;Italia;Crossroad;Lomè;Togo;Togo;01/09/2015
+ASF_555;Spain;España;Peinarse tras la ropa;Hanoi;Vietnam;Vietnam;01/01/2017
+ASF_556;Spain;España;Agua posada;Manila ;Philippines;Filipinas;01/01/2017
+ASF_557;Spain;España;Domingos del HSBC;Hong Kong;China;China;01/01/2017
+ASF_558;Colombia;Colombia;IMG_9563_2;Fort Lauderdale;Haiti;Haití;
+ASF_559;Colombia;Colombia;IMG_9591_2;Fort Lauderdale;Haiti;Haití;
+ASF_560;Colombia;Colombia;IMG_9621_BW;Fort Lauderdale;Haiti;Haití;
+ASF_561;;;Edificios moderno y antiguo en La Habana;La Habana;Cuba;Cuba;01/10/2016
+ASF_562;;;Edificios en la Habana vieja;La Habana;Cuba;Cuba;01/10/2016
+ASF_563;Sweden;Suecia;Sofia Wettainen 1;Dharavi, Mumbai;India;India;2014
+ASF_564;Sweden;Suecia;Sofia Wettainen 2;Dharavi, Mumbai;India;India;2014
+ASF_565;Sweden;Suecia;Sofia Wettainen 3;Dharavi, Mumbai;India;India;2014
+ASF_566;Spain;España;Yo,Aquí,encasa 1;Mumbai ;India;India;01/12/2016
+ASF_567;Spain;España;Yo,Aquí,encasa 2;Mumbai ;India;India;01/12/2016
+ASF_568;Spain;España;Yo,Aquí,encasa 3;Mumbai ;India;India;01/12/2016
+ASF_569;USA;USA;Capitalism;Ciudad del Cabo;South Africa;Sudáfrica;01/11/2012
+ASF_570;USA;USA;Destruction and recycling Gold Mines;Johannesburgo;South Africa;Sudáfrica;01/11/2012
+ASF_571;USA;USA;Segregation;Ciudad del cabo;South Africa;Sudáfrica;01/11/2012
+ASF_572;Argentina;Argentina;Mi lugar es de arena;Merzouga;Mexico;México;01/01/2017
+ASF_573;Argentina;Argentina;Mi casa, mi lugar;Merzouga;Mexico;México;01/01/2017
+ASF_574;Italy;Italia;Cities with architecture 1;El Cairo;Egypt;Egipto;2012
+ASF_575;Italy;Italia;Cities with architecture 2;El Cairo;Egypt;Egipto;2012
+ASF_576;Italy;Italia;Cities with architecture 3;El Cairo;Egypt;Egipto;2012
+ASF_577;Spain;España;No limits?;La Argentina, Huila;Colombia;Colombia;14/02/2017
+ASF_578;Spain;España;Resiliencia;Soacha, Cundinamarca ;Colombia;Colombia;26/02/2017
+ASF_579;Iran;Irán;The Smooth and The Striated;Accra ;Ghana;Ghana;12/09/2016
+ASF_580;Iran;Irán;The Rhizome;Accra ;Ghana;Ghana;12/09/2016
+ASF_581;Iran;Irán;A body without organs;Accra ;Ghana;Ghana;12/09/2016
+ASF_582;Spain;España;Paseando mi barrio;Malabo. Bioko;Equatorial Guinea ;Guinea Ecuatorial;06/08/2016
+ASF_583;Spain;España;El patio de mi casa;Malabo. Bioko;Equatorial Guinea ;Guinea Ecuatorial;28/07/2015
+ASF_584;Spain;España;La calle;Malabo. Bioko;Equatorial Guinea ;Guinea Ecuatorial;11/07/2015
+ASF_585;Argentina;Argentina;Espacio Tierra;The Hamptons, Nueva York;USA;USA;24/07/2016
+ASF_586;Brazil;Brasil;Way under ;Sao Paulo;Brazil;Brasil;30/04/2016
+ASF_587;Brazil;Brasil;Ribeira;Outskirts of Alcântara, State of Maranhão;Brazil;Brasil;23/01/2016
+ASF_588;Brazil;Brasil;Rio Anil;Slum Stilts in São Luís, State of Maranhão;Brazil;Brasil;23/01/2016
+ASF_589;Brazil;Brasil;Vila Lulu;Vila Lulu, a slum in Belém, State of Pará;Brazil;Brasil;07/01/2016
+ASF_590;Brazil;Brasil;On my hands;Made in a favela in the city of Campo Largo;Brazil;Brasil;05/06/2011
+ASF_591;Indonesia;Indonesia;Always growth;Yogyakarta;Indonesia;Indonesia;24/11/2013
+ASF_592;Indonesia;Indonesia;Architecture;Yogyakarta;Indonesia;Indonesia;24/11/2013
+ASF_593;Indonesia;Indonesia;Water front - Code river;Yogyakarta;Indonesia;Indonesia;01/01/2012
+ASF_594;Spain;España;¡Y se hizo la luz en el poblado!;Majimoto, Arusha ;Tanzania;Tanzania;09/03/2017
+ASF_595;Spain;España;La siesta sobre la moto, el lugar más seguro;Majimoto, Arusha ;Tanzania;Tanzania;31/08/2016
+ASF_596;Bolivia;Bolivia;Niñez ambulante;Santa Cruz, Mercado Abasto;Bolivia;Bolivia;21/03/2017
+ASF_597;Bolivia;Bolivia;Desborde;Santa Cruz, Avenida Cañoto. La Ramada;Bolivia;Bolivia;21/03/2017
+ASF_598;Bolivia;Bolivia;Válido;Santa Cruz, Mercado Abasto. Avenida Pirai;Bolivia;Bolivia;21/03/2017
+ASF_599;Cuba;Cuba;El lugar para nacer;La Habana;Cuba;Cuba;31/12/2016
+ASF_600;Cuba;Cuba;La espera IV;La Habana;Cuba;Cuba;31/12/2016
+ASF_601;Cuba;Cuba;Pan nuestro de cada día;La Habana;Cuba;Cuba;31/12/2016
+ASF_602;Spain;España;Puerta amarilla;Ciudadela en Habana Vieja ;Cuba;Cuba;21/03/2017
+ASF_603;Spain;España;Puerto;Regla, La Habana;Cuba;Cuba;21/03/2017
+ASF_604;Spain;España;Peluquería;Ciudadela en Habana Vieja ;Cuba;Cuba;21/03/2017
+ASF_605;Peru;Perú ;Cimientos 1;Lima, Comas;Peru;Perú;2016
+ASF_606;Peru;Perú ;Cimientos 2;Lima, Comas;Peru;Perú;2016
+ASF_607;Peru;Perú ;Cimientos 3;Lima, Comas;Peru;Perú;2016
+ASF_608;Spain;España;Ciudad vivida;Sierra Leona;Sierra Leone;Sierra Leona;01/07/2010
+ASF_609;Spain;España;Arquitectura en la calle;Sierra Leona;Sierra Leone;Sierra Leona;01/07/2010
+ASF_610;Spain;España;Ciudad VS Naturaleza;Sierra Leona;Sierra Leone;Sierra Leona;01/07/2010
+ASF_611;India;India;Infinite Rebirth;Portland;USA;USA;21/08/2016
+ASF_612;India;India;Dencity;Kolkata;India;India;10/08/2013
+ASF_613;India;India;Great city, terrible place;Mumbai ;India;India;19/07/2014
+ASF_614;Spain;España;Hazme hueco;Tubigon, Bohol;Philippines;Filipinas;03/03/2015
+ASF_615;Spain;España;Enjambre urbano;Ho Chi Minh ;Vietnam;Vietnam;12/07/2016
+ASF_616;Spain;España;Cobijo;Sapa;Vietnam;Vietnam;08/07/2016
+ASF_617;Spain;España;BCN 22 District 1;Barcelona ;Spain;España;21/03/2017
+ASF_618;Spain;España;BCN 22 District 2;Barcelona ;Spain;España;21/03/2017
+ASF_619;Spain;España;BCN 22 District 3;Barcelona ;Spain;España;21/03/2017
+ASF_620;Netherlands;Holanda;The invisible city;Ahmedabad, Gujarat;India;India;01/05/2011
+ASF_621;Netherlands;Holanda;Mumbai scape;Mumbai;India;India;01/04/2010
+ASF_622;Netherlands;Holanda;Ahmedabad;Ahmedabad, Gujarat;India;India;01/05/2011
+ASF_623;France;Francia;Letrina #06;La Rinconada De Pamplona Alta, Lima;Peru;Perú;
+ASF_624;France;Francia;Lucha #51 - Vida y muerte;La Rinconada De Pamplona Alta, Lima;Peru;Perú;
+ASF_625;France;Francia;Lucha #24 - El tajo se acerca;Cerro de Pasco;Peru;Perú;
+ASF_626;Portugal;Portugal;Espinho 1;Espinho;Portugal;Portugal;20/03/2017
+ASF_627;Portugal;Portugal;Espinho 2;Espinho;Portugal;Portugal;20/03/2017
+ASF_628;Portugal;Portugal;Espinho 3;Espinho;Portugal;Portugal;20/03/2017
+ASF_629;Argentina;Argentina;El callejón;Chosica ;Peru;Perú;10/10/2015
+ASF_630;Argentina;Argentina;La vivienda familiar;Chosica ;Peru;Perú;10/10/2015
+ASF_631;Argentina;Argentina;El balcón;Puno;Peru;Perú;31/07/2015
+ASF_632;Turkey;Turquía;Heap 1;Antalya;Turkey;Turquía;26/02/2017
+ASF_633;Turkey;Turquía;Heap 2;Antalya;Turkey;Turquía;26/02/2017
+ASF_634;Turkey;Turquía;Heap 3;Antalya;Turkey;Turquía;26/02/2017
+ASF_635;Turkey;Turquía;Yıgın_01;Çanakkale;Turkey;Turquía;
+ASF_636;Turkey;Turquía;Yıgın_02;Istanbul;Turkey;Turquía;
+ASF_637;Turkey;Turquía;Yıgın_03;Çanakkale;Turkey;Turquía;
+ASF_638;Portugal;Portugal;The Invisible Cities of Dadaab 1;Dadaab refugee complex;Kenya;Kenia;01/08/2016
+ASF_639;Portugal;Portugal;The Invisible Cities of Dadaab 2;Dadaab refugee complex;Kenya;Kenia;01/08/2016
+ASF_640;Portugal;Portugal;The Invisible Cities of Dadaab 3;Dadaab refugee complex;Kenya;Kenia;01/08/2016
+ASF_641;Germany;Alemania;Missing horizon;La Paz;Bolivia;Bolivia;01/01/2015
+ASF_642;Germany;Alemania;Gaping void;Bucarest;Romania;Rumanía;01/09/2016
+ASF_643;Germany;Alemania;Flowing borderline;Trujillo;Peru;Perú;01/02/2015
+ASF_644;Turkey;Turquía;Squatted Buildings - Kitchen;Zurich;Switzerland;Suiza;16/12/2015
+ASF_645;Turkey;Turquía;Squatted Buildings - Rooms;Zurich;Switzerland;Suiza;16/12/2015
+ASF_646;Turkey;Turquía;Squatted Buildings - Dining room;Zurich;Switzerland;Suiza;16/12/2015
+ASF_647;Honduras;Honduras;Armonía sin arquitectos;Caserío El Ocotalio,  San Marcos de Colón. Choluteca;Honduras;Honduras;24/12/2016
+ASF_648;Honduras;Honduras;Paisajimo rutinario ;Caserío El Ocotalio,  San Marcos de Colón. Choluteca;Honduras;Honduras;25/12/2016
+ASF_649;Honduras;Honduras;Urbanismo solitario ;Morolica, Choluteca;Honduras;Honduras;10/03/2017
+ASF_650;Spain;España;Buenos Aires, segundo plano;Buenos Aires ;Argentina;Argentina;15/11/2014
+ASF_651;Spain;España;Afterwork;Jembesse;Mozambique;Mozambique;01/08/2013
+ASF_652;Spain;España;Rutina;Jembesse;Mozambique;Mozambique;01/08/2013
+ASF_653;Spain;España;Intromisión;Juliaca;Peru;Perú;01/10/2015
+ASF_654;Spain;España;Stone on stone;Ciudad de Dakar;Senegal;Senegal;01/08/2010
+ASF_655;Spain;España;Rainbow street;Sauraha;Nepal;Nepal;01/08/2013
+ASF_656;Spain;España;Trazado urbano;Ciudad de Dakar;Senegal;Senegal;01/08/2010
+ASF_657;Spain;España;De Uralita es el cielo del Edén;La Algameca Chica, Cartagena;Spain;España;24/03/2017
+ASF_658;Spain;España;Anarquía estructurada en la Shangai cartagenera;La Algameca Chica, Cartagena;Spain;España;24/03/2017
+ASF_659;Spain;España;La mar conoce tu escondite;La Algameca Chica, Cartagena;Spain;España;24/03/2017
+ASF_660;Spain;España;Vacío;Nairobi ;Kenya;Kenia;01/09/2016
+ASF_661;Spain;España;Huruma;Nairobi ;Kenya;Kenia;01/09/2016
+ASF_662;Spain;España;Algameca Chica;Cartagena, Murcia;Spain;España;23/03/2015
+ASF_663;Greece;Grecia;Lines of sanity 1;El Alto;Bolivia;Bolivia;01/04/2010
+ASF_664;Greece;Grecia;Lines of sanity 2;Mumbai;India;India;01/01/2015
+ASF_665;Greece;Grecia;Lines of sanity 3;Govandi, Mumbai;India;India;01/01/2015
+ASF_666;Poland;Polonia;Cyclops;Túnez;Tunisia;Túnez;01/08/2016
+ASF_667;Poland;Polonia;Top Apartment;Túnez;Tunisia;Túnez;01/08/2016
+ASF_668;Poland;Polonia;Ufo;Túnez;Tunisia;Túnez;01/08/2016
+ASF_669;Argentina;Argentina;Luces de Ciudad;San Juan;Argentina;Argentina;01/01/2017
+ASF_670;Argentina;Argentina;Barro;San Juan;Argentina;Argentina;01/01/2017
+ASF_671;Argentina;Argentina;Aventuras de Ciudad;Valparaíso ;Chile;Chile;01/11/2016
+ASF_672;Spain;España;Media tarde en Komarock;Komarock, Nairobi;Kenya;Kenia;22/02/2017
+ASF_673;Spain;España;Auténtico Mercado Masai;KomarockTalek, Narok;Kenya;Kenia;08/02/2017
+ASF_674;Spain;España;Entrañas de Mombasa;Likoni, Mombasa  ;Kenya;Kenia;15/02/2017
+ASF_675;Peru;Perú ;Barrio de esteras 1;Asentamiento Humano Cantagallo, Rímac, Lima;Peru;Perú;21/11/2016
+ASF_676;Peru;Perú ;Barrio de esteras 2;Asentamiento Humano Cantagallo, Rímac, Lima;Peru;Perú;21/11/2016
+ASF_677;Peru;Perú ;Barrio de esteras 3;Asentamiento Humano Cantagallo, Rímac, Lima;Peru;Perú;21/11/2016
+ASF_678;Brazil;Brasil;The wall;São Paulo;Brazil;Brasil;25/01/2017
+ASF_679;Brazil;Brasil;Bike tower;São Paulo;Brazil;Brasil;16/10/2016
+ASF_680;Brazil;Brasil;Belvedere;São Paulo;Brazil;Brasil;16/10/2016
+ASF_681;Spain;España;Equilibrio Inestable;"Ouagadougou
+";Burkina Faso;Burkina Faso;01/08/2014
+ASF_682;Slovakia;Eslovaquia;Growing from ruins;Bratislava;Slovakia;Eslovaquia;01/03/2017
+ASF_683;Slovakia;Eslovaquia;Railway to…;Bratislava;Slovakia;Eslovaquia;01/03/2017
+ASF_684;Slovakia;Eslovaquia;Waiting for its final destination;Bratislava;Slovakia;Eslovaquia;01/03/2017
+ASF_685;Spain;España;Evolución de la relación entre ciudad y entorno 1;Granada;Spain;España;08/01/2013
+ASF_686;Spain;España;Evolución de la relación entre ciudad y entorno 2;Luang Prabang;Lao;Laos;28/09/2013
+ASF_687;Spain;España;Evolución de la relación entre ciudad y entorno 3;Tokio;Japan;Japón;25/09/2012
+ASF_688;Spain;España;Air, Land and Water;Arab al Rashaydeh, West Bank;Palestine;Palestina;12/12/2016
+ASF_689;Spain;España;I exist in two places, here and where you are;Arab al Rashaydeh, West Bank;Palestine;Palestina;20/09/2016
+ASF_690;Spain;España;Gestating the future;Arab al Rashaydeh, West Bank;Palestine;Palestina;20/09/2016
