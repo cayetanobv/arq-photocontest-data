@@ -1,4 +1,4 @@
-nationality_en;nationality_es;photo_locality;photo_country_en;photo_country_es;date 
+nationality_en;nationality_es;photo_locality;photo_country_en;photo_country_es;date
 Spain;España;País Vasco ;Spain;España;01/08/2015
 Spain;España;Barajas. Madrid ;Spain;España;01/08/2015
 Brazil;Brasil;Palmas, Tocantins ;Brazil;Brasil;
@@ -157,8 +157,7 @@ Argentina;Argentina;Río de Janeiro - Brasil;Brazil;Brasil;01/07/2012
 Spain;España;Cuzco - Perú                           ;Peru;Perú;01/10/2016
 Spain;España;Cuzco - Perú                           ;Peru;Perú;01/10/2016
 Spain;España;Cuzco - Perú                           ;Peru;Perú;01/11/2016
-Spain;España;"Ouagadougou - Burkina Faso
-";Burkina Faso;Burkina Faso;01/04/2011
+Spain;España;Ouagadougou - Burkina Faso;Burkina Faso;Burkina Faso;01/04/2011
 Indonesia;Indonesia;Pluit, Jakarta - Indonesia;Indonesia;Indonesia;01/01/2016
 Indonesia;Indonesia;Tanjung Priok, Jakarta - Indonesia;Indonesia;Indonesia;01/06/2016
 Indonesia;Indonesia;Jakarta - Indonesia;Indonesia;Indonesia;01/01/2016
@@ -177,8 +176,7 @@ Colombia;Colombia;Ciudad Santiago de Cali - Colombia;Colombia;Colombia;17/03/201
 Spain;España;Kibera, Nairobi - Kenia;Kenya;Kenia;22/04/2016
 Spain;España;Kibera, Nairobi - Kenia;Kenya;Kenia;22/08/2016
 Spain;España;Kibera, Nairobi - Kenia;Kenya;Kenia;22/09/2016
-USA;USA;"West bank, near ein el-sultan camp - Palestina
-                         ";Palestine;Palestina;01/07/2011
+USA;USA;West bank, near ein el-sultan camp - Palestina;Palestine;Palestina;01/07/2011
 Malaysia;Malasia;Khan Younis - Gaza;Gaza;Gaza;01/01/2013
 Austria;Austria;Río de Janeiro - Brasil;Brazil;Brasil;01/09/2015
 Austria;Austria;Jakarta - Indonesia;Indonesia;Indonesia;01/09/2014
@@ -270,8 +268,7 @@ Turkey;Turquía;Kumkapi, Istanbul - Turquía;Turkey;Turquía;15/03/2017
 Turkey;Turquía;Kumkapi, Istanbul - Turquía;Turkey;Turquía;15/03/2017
 Argentina;Argentina;Río de Janeiro - Brasil ;Brazil;Brasil;09/02/2017
 Argentina;Argentina;Castro, Chiloe - Chile;Chile;Chile;28/01/2015
-Argentina;Argentina;"San Pedro de Atacama - Chile 
-";Chile;Chile;30/12/2014
+Argentina;Argentina;San Pedro de Atacama - Chile;Chile;Chile;30/12/2014
 Portugal;Portugal;Ait Ben Haddou - Marruecos;Morocco;Marruecos;27/02/2017
 Portugal;Portugal;Fez - Marruecos;Morocco;Marruecos;16/02/2010
 Portugal;Portugal;Tinghir - Marruecos;Morocco;Marruecos;27/02/2017
@@ -682,8 +679,7 @@ Peru;Perú ;Asentamiento Humano Cantagallo, Rímac, Lima;Peru;Perú;21/11/2016
 Brazil;Brasil;São Paulo;Brazil;Brasil;25/01/2017
 Brazil;Brasil;São Paulo;Brazil;Brasil;16/10/2016
 Brazil;Brasil;São Paulo;Brazil;Brasil;16/10/2016
-Spain;España;"Ouagadougou
-";Burkina Faso;Burkina Faso;01/08/2014
+Spain;España;Ouagadougou;Burkina Faso;Burkina Faso;01/08/2014
 Slovakia;Eslovaquia;Bratislava;Slovakia;Eslovaquia;01/03/2017
 Slovakia;Eslovaquia;Bratislava;Slovakia;Eslovaquia;01/03/2017
 Slovakia;Eslovaquia;Bratislava;Slovakia;Eslovaquia;01/03/2017
